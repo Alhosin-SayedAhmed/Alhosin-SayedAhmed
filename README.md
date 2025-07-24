@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alhussain sayed-ahmed</h1>
-<h3 align="center">                 Software Test Engineer       </h3>
-<h3 align="center"> Embedded Software Engineer/ PCB Designer </h3>
+<h3 align="center">  Software Test Engineer /Embedded Software Engineer/ PCB Designer </h3>
 
 <h5 align="center" style="color: #333; font-weight: bold; font-size: 192px;">All projects will be updated by 30 July , 2025 </h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alhosin-sayedahmed&label=Profile%20views&color=0e75b6&style=flat" alt="alhosin-sayedahmed" /> </p>
