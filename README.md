@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alhussain sayed-ahmed</h1>
 <h3 align="center">  Software Test Engineer /Embedded Software Engineer/ PCB Designer </h3>
 
-<h5 align="center" style="color: #333; font-weight: bold; font-size: 192px;">I apologize for the delay in uploading my projects due to a computer issue — they will be available very soon </h5>
+<h5 align="center" style="color: #333; font-weight: bold; font-size: 192px;">Welcome! Feel free to explore my projects in the repositories </h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alhosin-sayedahmed&label=Profile%20views&color=0e75b6&style=flat" alt="alhosin-sayedahmed" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alhosin-sayedahmed" alt="alhosin-sayedahmed" /></a> </p>
